@@ -87,6 +87,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Added
 
 ### Dependencies
+- Bump `com.azure:azure-storage-common` from 12.21.2 to 12.23.0 ([#10162](https://github.com/opensearch-project/OpenSearch/pull/10162))
 
 ### Changed
 
